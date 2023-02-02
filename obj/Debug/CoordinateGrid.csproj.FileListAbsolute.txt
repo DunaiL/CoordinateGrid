@@ -1,0 +1,11 @@
+C:\Users\spark\source\repos\CoordinateGrid\bin\Debug\CoordinateGrid.exe.config
+C:\Users\spark\source\repos\CoordinateGrid\bin\Debug\CoordinateGrid.exe
+C:\Users\spark\source\repos\CoordinateGrid\bin\Debug\CoordinateGrid.pdb
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.Form1.resources
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.Properties.Resources.resources
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.csproj.GenerateResource.cache
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.exe
+C:\Users\spark\source\repos\CoordinateGrid\obj\Debug\CoordinateGrid.pdb
